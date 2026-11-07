@@ -121,3 +121,6 @@ print(f"Lowest Grade: {minname}-{lowest}")
 #git add .
 #git commit -m "dsdsda"
 #git push 
+#wake up agent eval "$(ssh-agent -s)"
+#find your ssh keys ls -al ~/.ssh
+#add identity ssh-add ~/.ssh/id_ed25519
