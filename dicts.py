@@ -31,3 +31,5 @@ for keys in capitals.keys():
 
 #for keys,values, in capitals.items():
  #print(keys,values ) # αμα θελω να εμφανισω μεσα σε loop και κλειδια και τις τιμες τους (.items) πρεπει να βαλω και τις δυο μεταβλητες keys,values
+
+ # print(capitals["USA"]) θα παει να εμφανισει την τιμη του κλειδιου αυτου αν υπαρχει
